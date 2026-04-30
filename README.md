@@ -17,5 +17,5 @@ To provide retail executives with a high-level strategic overview of global sale
 
 ## 📈 Preview
 ![Global Retail Dashboard]
-(dashboard_final.png)
+(dashboard.png)
 
