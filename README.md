@@ -16,6 +16,5 @@ To provide retail executives with a high-level strategic overview of global sale
 * **Geospatial Analysis:** Integrated map visuals for global revenue distribution.
 
 ## 📈 Preview
-![Global Retail Dashboard]
-(Dashboard.png)
+![Global Retail Dashboard](Dashboard.png)
 
